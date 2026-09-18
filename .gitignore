@@ -1,0 +1,4 @@
+*.class
+.DS_Store
+data/expenses.txt
+data/budget.txt
